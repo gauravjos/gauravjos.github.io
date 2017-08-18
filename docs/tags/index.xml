@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GauravJoshi</title>
+    <link>http://gauravjos.github.io/tags/</link>
+    <description>Recent content in Tags on GauravJoshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [DigitalCraftsMan](https://github.com/digitalcraftsman/hugo-icarus-theme).</copyright>
+    
+	<atom:link href="http://gauravjos.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
