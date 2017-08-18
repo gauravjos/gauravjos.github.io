@@ -51,7 +51,7 @@ themesDir = "themes/"
 [[params.menu]]
     before = true
     label  = "Home"
-    link   = "/"
+    link   = "/myblog"
 
 [[params.menu]]
     before = false
