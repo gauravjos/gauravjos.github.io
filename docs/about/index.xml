@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on GauravJoshi</title>
-    <link>http://gauravjos.github.io/about/</link>
+    <link>https://gauravjos.github.io/myblog/about/</link>
     <description>Recent content in About on GauravJoshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [DigitalCraftsMan](https://github.com/digitalcraftsman/hugo-icarus-theme).</copyright>
     <lastBuildDate>Fri, 19 May 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://gauravjos.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gauravjos.github.io/myblog/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GauravJoshi</title>
-    <link>http://gauravjos.github.io/categories/</link>
+    <link>https://gauravjos.github.io/myblog/categories/</link>
     <description>Recent content in Categories on GauravJoshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [DigitalCraftsMan](https://github.com/digitalcraftsman/hugo-icarus-theme).</copyright>
     
-	<atom:link href="http://gauravjos.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gauravjos.github.io/myblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

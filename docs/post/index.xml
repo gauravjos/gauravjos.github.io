@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GauravJoshi</title>
-    <link>http://gauravjos.github.io/post/</link>
+    <link>https://gauravjos.github.io/myblog/post/</link>
     <description>Recent content in Posts on GauravJoshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [DigitalCraftsMan](https://github.com/digitalcraftsman/hugo-icarus-theme).</copyright>
     <lastBuildDate>Fri, 18 Aug 2017 14:04:46 +0530</lastBuildDate>
     
-	<atom:link href="http://gauravjos.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gauravjos.github.io/myblog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notice</title>
-      <link>http://gauravjos.github.io/18/08/2017/notice/</link>
+      <link>https://gauravjos.github.io/myblog/18/08/2017/notice/</link>
       <pubDate>Fri, 18 Aug 2017 14:04:46 +0530</pubDate>
       
-      <guid>http://gauravjos.github.io/18/08/2017/notice/</guid>
+      <guid>https://gauravjos.github.io/myblog/18/08/2017/notice/</guid>
       <description>Notice .. This Site is Under Construction !! Please come after sometime when I have written something worth your time :)</description>
     </item>
     
